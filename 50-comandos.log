@@ -1,0 +1,4 @@
+    1  wc -w elarriero.txt
+    2  grep -o "vaquitas" elarriero.txt | wc -l  
+    3  history
+    4  history | tail -n 50 > 50-comandos.log 
